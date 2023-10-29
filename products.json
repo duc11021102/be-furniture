@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Lamp",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Kids",
+      "price": 30.99,
+      "images": "lamb.webp"
+    },
+    {
+      "id": "p2",
+      "title": "Sleek Chair",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Chairs",
+      "price": 20.99,
+      "images": "chair.webp"
+    },
+    {
+      "id": "p3",
+      "title": "Comfy Bed",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Beds",
+      "price": 10.99,
+      "images": "comfyBed.webp"
+    },
+    {
+      "id": "p4",
+      "title": "Velvet Sofa",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Chairs",
+      "price": 10.99,
+      "images": "velvetsSofa.webp"
+    },
+    {
+      "id": "p5",
+      "title": "Contemporary Sofa",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Sofas",
+      "price": 10.99,
+      "images": "longSofa.webp"
+    },
+    {
+      "id": "p6",
+      "title": "Minimalist Shelves",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Kids",
+      "price": 10.99,
+      "images": "shelves.webp"
+    },
+    {
+      "id": "p7",
+      "title": "Coffee Table",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Tables",
+      "price": 10.99,
+      "images": "coffeeTable.webp"
+    },
+    {
+      "id": "p8",
+      "title": "Toys Shelf",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Kids",
+      "price": 10.99,
+      "images": "pexels.webp"
+    },
+    {
+      "id": "p9",
+      "title": "Modern Sofa",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Sofas",
+      "price": 10.99,
+      "images": "modernSofa.webp"
+    },
+    {
+      "id": "p10",
+      "title": "Modern Bed",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Beds",
+      "price": 10.99,
+      "images": "modernBed.webp"
+    },
+    {
+      "id": "p11",
+      "title": "Modern Table",
+      "description": "Meet, connect, and network with fellow budding web developers. Share your experiences and learn from others.",
+      "category": "Tables",
+      "price": 10.99,
+      "images": "modernTable.webp"
+    }
+  ],
+  "images": [
+    {
+      "path": "lamb.webp",
+      "caption": "People walking through a city buzzing with life at night."
+    },
+    { "path": "coffeeTable.webp", "caption": "A laptop on a desk." },
+    {
+      "path": "comfyBed.webp",
+      "caption": "A group of people meeting and networking."
+    },
+    { "path": "chair.webp", "caption": "A park with a lake." },
+    { "path": "longSofa.webp", "caption": "A group of women coding." },
+    { "path": "shelves.webp", "caption": "A group of women coding." },
+    { "path": "modernBed.webp", "caption": "A group of women coding." },
+    { "path": "modernSofa.webp", "caption": "A group of women coding." },
+    { "path": "modernTable.webp", "caption": "A group of women coding." },
+    { "path": "velvetsSofa.webp", "caption": "A group of women coding." },
+    { "path": "pexels.webp", "caption": "A group of women coding." }
+  ],
+  "users": [
+    {
+      "email": "duc11021102@gmail.com",
+      "password": "$2a$12$T9dv9tOv3UFWbUL.8SNoYOhVJiwwSid1zlE7W5EvdAvf8pA2AdvCS",
+      "id": "e50b5347-81b8-4195-a5be-afab2dd8c513"
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$12$dSA1oePTg3/SPqIbSbvGhutkiWAVuG57DTyp5EARq5hmYo/1Zzp1u",
+      "id": "7603d41f-64c2-4cff-83a4-ccdb2cf42c92"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$12$A54SYY8zLmu6.qeVT.oUauGiqeHtbIYZ5vuDBDoj4ccJMCxUDHyei",
+      "id": "38d6f346-07cd-4ddd-a32c-8c8c6331a4eb"
+    }
+  ]
+}
