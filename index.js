@@ -1,4 +1,5 @@
 const express = require('express');
+const serverless = require('serverless-http');
 const bodyParser = require('body-parser');
 const productsRoutes = require('./routes/products');
 const authRoutes = require('./routes/auth');
@@ -24,3 +25,4 @@ app.get('/api', (req, res) => {
 app.use('/api/auth', authRoutes)
 app.use('/api/products', productsRoutes);
 app.listen(8080);
+module.exports.handler = serverless(app);

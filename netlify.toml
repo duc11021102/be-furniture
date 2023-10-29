@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"  # Sửa lệnh này nếu bạn có lệnh build khác
+  functions = "functions"   # Thư mục chứa các hàm serverless
+
+[dev]
+  publish = "public"        # Thư mục chứa ứng dụng frontend (nếu có)
+
+[settings]
+  node_version = "14"      # Phiên bản Node.js mà bạn sử dụng
