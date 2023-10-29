@@ -18,9 +18,9 @@ app.use((req, res, next) => {
     next();
 });
 
-app.get('/', (req, res) => {
-    res.send("hello");
+app.get('/api', (req, res) => {
+    res.send("App is running!");
 })
-app.use(authRoutes)
-app.use('/products', productsRoutes);
+app.use('/api/auth', authRoutes)
+app.use('/api/products', productsRoutes);
 app.listen(8080);
